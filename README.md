@@ -1,0 +1,2 @@
+# Discord Ears Offline Bot
+ 
